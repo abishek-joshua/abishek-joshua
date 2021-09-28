@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abishek-joshua
 - 👀 I’m interested in everything COMPUTER SCIENCE
-- 🌱 I’m currently learning Web Development using MERN stack
+- 🌱 I’m currently learning Web Development using PERN stack
 
 <!---
 abishek-joshua/abishek-joshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
