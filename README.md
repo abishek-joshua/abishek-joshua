@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abishek-joshua
-- 👀 I’m interested in everything COMPUTER SCIENCE
-- 🌱 I’m currently learning Web Development using Django
+- 👀 I am an aspiring Data Scientist
 
 <!---
 abishek-joshua/abishek-joshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
